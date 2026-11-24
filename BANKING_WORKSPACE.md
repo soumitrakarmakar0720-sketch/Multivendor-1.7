@@ -1,0 +1,1 @@
+11.2 banking workspace styling update. Existing backend retained. No new financial modules or database migrations. Runtime and live payment testing not performed. Deploy using existing Render settings.
